@@ -24,7 +24,7 @@
 关键词：中国石油大学（华东）、UPC、强智教务、中国石油大学
 
 原理：  
-![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/e31ab100-f2d9-449b-b0c9-257cf1241ce2)  
+![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/314841f8-a6fe-4950-9d11-575fdaf26236)  
 教务系统给出了接口，点击如上成绩可以查询成绩具体构成  
 ![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/fc31ca7c-d519-4aef-8bbd-10cd1a62a831)  
 通过比对不同课程成绩链接发现链接主要有用的部分由如上部分组成：学号、课程号（指的是该学年该课程某种唯一标识符）、总成绩（没用）  
