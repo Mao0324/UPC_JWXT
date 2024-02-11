@@ -1,7 +1,7 @@
 # UPC_JWXT
-用于中国石油大学（华东），UPC，查询老师已经上传、但是还没出的成绩
+用于中国石油大学（华东），UPC，查询老师已经上传、但是还没出的成绩，理论上所有使用强智教务系统的学校都通用
 使用步骤：  
-1.![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/ffeaabc6-10e2-449d-af55-3e12ca0009a1)  
+![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/ffeaabc6-10e2-449d-af55-3e12ca0009a1)  
 使用任意浏览器登录数字石大并进入到教务系统如图所示页面  
 点击F12，刷新一下  
 ![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/92fabf74-4730-46ce-aa55-3b19019cc04f)  
@@ -19,8 +19,8 @@
 ![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/55298974-01e9-45d7-b7fc-604fb403ed0d)  
 然后会在文件夹中生成出一个excel文件，里面是出成绩的链接  
 ![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/9b85ed35-8726-4f18-b6f7-0e1a821b98a8)  
-复制这些链接到浏览器就可以查到成绩具体信息
-
+复制这些链接到浏览器就可以查到成绩具体信息  
+有问题添加QQ：1793252356
 
 
 
