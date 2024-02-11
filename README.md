@@ -17,9 +17,9 @@
 此处填上你的cookie  
 ![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/78d6f292-8cdf-4292-9cea-485feca52482)  
 ![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/55298974-01e9-45d7-b7fc-604fb403ed0d)  
-然后会在文件夹中生成出一个excel文件，里面是出成绩的链接  
+运行程序，会在程序所在文件夹中生成出一个excel文件，里面是出成绩的链接  
 ![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/9b85ed35-8726-4f18-b6f7-0e1a821b98a8)  
-复制这些链接到浏览器就可以查到成绩具体信息 
+复制这些链接到浏览器就可以查到成绩具体信息  
 有问题添加QQ：1793252356  
 关键词：中国石油大学（华东）、UPC、强智教务、中国石油大学
 
