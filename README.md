@@ -12,7 +12,7 @@
 ![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/1ee7b458-5a25-4b8c-90f8-6560c81948e3)  
 按照注释修改  
 ![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/6051927a-951f-48f5-a596-ff137c746a9d)  
-如果速度太慢可以分成十段0001-0999、1001-1999……
+如果速度太慢可以分成十段0001-0999、1001-1999……  
 ![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/6553bc15-450a-4f80-b710-5e96321b2463)  
 此处填上你的cookie  
 ![image](https://github.com/Mao0324/UPC_JWXT/assets/133934785/78d6f292-8cdf-4292-9cea-485feca52482)  
