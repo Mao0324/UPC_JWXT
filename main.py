@@ -38,7 +38,8 @@ for url in urls:
             if len(cells) > 3:
                 ws.append([url])
                 valid_urls += 1
-
+                if valid_urls % 100 == 0:
+                    print(f"已遍历 {valid_urls} 个URL")
 # 检查是否有任何有效的URL
 if valid_urls > 0:
     # 保存Workbook到Excel文件中
