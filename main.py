@@ -4,15 +4,15 @@ from openpyxl import Workbook
 
 # 定义你的URLs
 # 修改此处xs0101id=后面为你的学号
-base_url = "http://jwxt.upc.edu.cn/jsxsd/kscj/pscj_list.do?xs0101id=2116030319&jx0404id="
+base_url = "http://jwxt.upc.edu.cn/jsxsd/kscj/pscj_list.do?xs0101id=&jx0404id="
 # 修改此处202320241，此段意思为2023-2024 学年第一学期，如果你要查询的是2023-2024 学年第二学期，那么此处应该为202320242
-urls = [base_url + str(i) + "&zcj=" for i in range(202320241003300, 202320241003399+1)]
+urls = [base_url + str(i) + "&zcj=" for i in range(202320241000000, 202320241009999+1)]
 
 # 定义你的cookies和headers
 # 修改此处JSESSIONID=后面为你复制的cookie
 cookies = {
-    "JSESSIONID": "A0DB2792B86C35A8DE68A98E00D5A8D8",
-    "SERVERID": "123"
+    "JSESSIONID": "",
+    "SERVERID": ""
 }
 
 headers = {
