@@ -27,7 +27,7 @@ ws = wb.active
 
 # 对每个URL发送HTTP请求
 valid_urls = 0
-for url in urls:
+for i, url in enumerate(urls, start=1):
     response = requests.get(url, cookies=cookies, headers=headers)
     soup = BeautifulSoup(response.text, 'html.parser')
     table = soup.find('table', {'id': 'dataList'})
@@ -38,10 +38,15 @@ for url in urls:
             if len(cells) > 3:
                 ws.append([url])
                 valid_urls += 1
-               
+
+    # 每遍历100个url输出当前已经遍历的url数
+    if i % 100 == 0:
+        print(f"已处理 {i} 个URL")
+
 # 检查是否有任何有效的URL
 if valid_urls > 0:
     # 保存Workbook到Excel文件中
     wb.save('urls.xlsx')
 else:
     print("无满足")
+
